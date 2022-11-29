@@ -3,6 +3,7 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("Вот я сделал дз");
         System.out.println("Но залил все в одну ветку");
+        System.out.println("Упс");
 
     }
 }
